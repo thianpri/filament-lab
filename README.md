@@ -1,9 +1,9 @@
 # Filament Blog Builder
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/thianpri/filament-blog.svg?style=flat-square)](https://packagist.org/packages/thianpri/filament-blog)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/thianpri/filament-blog/run-tests?label=tests)](https://github.com/thianpri/filament-blog/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/thianpri/filament-blog/Check%20&%20fix%20styling?label=code%20style)](https://github.com/thianpri/filament-blog/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/thianpri/filament-blog.svg?style=flat-square)](https://packagist.org/packages/thianpri/filament-blog)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/thianpri/filament-lab.svg?style=flat-square)](https://packagist.org/packages/thianpri/filament-blog)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/thianpri/filament-lab/run-tests?label=tests)](https://github.com/thianpri/filament-lab/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/thianpri/filament-lab/Check%20&%20fix%20styling?label=code%20style)](https://github.com/thianpri/filament-lab/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/thianpri/filament-lab.svg?style=flat-square)](https://packagist.org/packages/thianpri/filament-lab)
 
 A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 
