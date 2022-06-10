@@ -1,4 +1,4 @@
-# Filament Blog Builder
+# Filament Lab Builder
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/thianpri/filament-lab.svg?style=flat-square)](https://packagist.org/packages/thianpri/filament-lab)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/thianpri/filament-lab/run-tests?label=tests)](https://github.com/thianpri/filament-lab/actions?query=workflow%3Arun-tests+branch%3Amain)
