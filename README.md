@@ -10,14 +10,14 @@ A faceless blog content manager with configurable richtext and markdown support 
 ![](./art/screen1.png)
 
 ## Filament Admin Panel
-This package is tailored for [Filament Admin Panel](https://filamentphp.com/). 
+This package is tested for [Filament Admin Panel](https://filamentphp.com/). 
 
 Make sure you have installed the admin panel before you continue with the installation. You can check the [documentation here](https://filamentphp.com/docs/admin)
 
 ## Supported Versions
-PHP: `8.0`
+PHP: `8.1`
 
-Laravel: `8` & `9`
+Laravel: `9`
 
 ## Installation
 You can install the package via composer:
